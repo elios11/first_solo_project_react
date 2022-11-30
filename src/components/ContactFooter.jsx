@@ -1,7 +1,7 @@
-import TwitterIcon from "../assets/TwitterIcon.png"
-import FacebookIcon from "../assets/FacebookIcon.png"
-import InstagramIcon from "../assets/InstagramIcon.png"
-import GithubIcon from "../assets/GithubIcon.png"
+import TwitterIcon from "../assets/twitter_icon.png"
+import FacebookIcon from "../assets/facebook_icon.png"
+import InstagramIcon from "../assets/instagram_icon.png"
+import GithubIcon from "../assets/github_icon.png"
 
 export default function ContactFooter() {
     return (

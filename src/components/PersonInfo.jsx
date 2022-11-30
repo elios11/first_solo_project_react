@@ -1,6 +1,6 @@
 import ProfileImg from "../assets/elias_ferreira_cover.jpg"
-import MailIcon from "../assets/Mail.png"
-import LinkedinIcon from "../assets/linkedin.png"
+import MailIcon from "../assets/mail_icon.png"
+import LinkedinIcon from "../assets/linkedin_icon.png"
 
 export default function PersonInfo() {
     return(
